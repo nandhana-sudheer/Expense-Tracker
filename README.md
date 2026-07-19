@@ -120,15 +120,7 @@ Through this project, I practiced:
 * Building a web application with Streamlit
 * Using Git and GitHub
 
-## Future Improvements
 
-Possible future improvements include:
-
-* Category-wise spending charts
-* Search and filtering
-* Monthly expense summaries
-* Editing existing expenses
-* Database storage
 
 ## Author
 
